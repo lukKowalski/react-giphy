@@ -40,7 +40,7 @@ docker build -t cats-image .
 To run built docker image as a container under localhost:8001:
 
 ```bash
-docker run -dp 8080:8080 cats-image
+docker run -dp 8001:8001 cats-image
 ```
 
 Go to: http://localhost:8001 to search for cat memes with giphy
