@@ -1,13 +1,6 @@
-# react-boilerplate
+## How it looks:
+![image](https://user-images.githubusercontent.com/2960003/111598948-07e00000-87d0-11eb-8de0-07beeb60156a.png)
 
-Simple react starter with the following config:
-
-- React, ReactDOM
-- Webpack 3
-- Babel with es2015 and react presets
-- Bootstrap (css only, loaded from a cdn in `index.html`)
-- work with `.js` or `.jsx` files
-- main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 
 ## Scripts
 
